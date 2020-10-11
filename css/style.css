@@ -30,9 +30,9 @@ main {
 .adress {
   font-style: normal;
 }
-/*img {
+img {
   display: block;
-}*/
+}
 .container {
   width: 1200px;
   padding: 0 15px;
